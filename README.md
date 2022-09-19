@@ -15,20 +15,19 @@
 
 ### Getting Ready
 
-- 1📚  [ An Introduction to JAVA Language ] https://github.com/ishani-1255/Learning-JAVA/blob/main/DAY%201.md
-- 2📚  [ Variables in JAVA ]
-- 3📚  [ Conditional Statement in JAVA ]
-- 4📚  [ Loops in JAVA ]
+-  [ ] 1📚  [An Introduction to JAVA Language] (https://github.com/ishani-1255/Learning-JAVA/blob/main/DAY%201.md)
+-  [ ] 2📚  [ Variables in JAVA ]
+-  [ ] 3📚  [ Conditional Statement in JAVA ]
+-  [ ] 4📚  [ Loops in JAVA ]
 
 ### Practice Question 
 
-- 5🐧   [ Pattern Question In JAVA - Beginners ]
-- 6🐧   [ Pattern Question In JAVA - Advanced ]
+-  [ ] 5🐧   [ Pattern Question In JAVA - Beginners ]
+-  [ ] 6🐧   [ Pattern Question In JAVA - Advanced ]
 
  ### Getting Ahead with JAVA
  
-- 7🌐    [ Introduction to Function ]
-- 8🌐    [ Functions ]
-- 9🌐    [ Basics of Time Complexity ]
-
+-  [ ] 7🌐    [ Introduction to Function ]
+-  [ ] 8🌐    [ Functions ]
+-  [ ] 9🌐    [ Basics of Time Complexity ]
 - 
