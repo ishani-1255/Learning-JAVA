@@ -6,7 +6,7 @@
 - The reason for documenting the journey is to help others so that they can take something from it and can contribute to enhance the resources. 
 
 - Goal
-    - 30 Days -> 1 hour/day 
+    - 30 Days -> 1-2 hour/day 
     
 => Going ahead with 
  -  Apna College JAVA Playlist ( https://youtu.be/yRpLlJmRo2w )
