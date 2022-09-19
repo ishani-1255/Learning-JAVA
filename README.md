@@ -15,7 +15,7 @@
 
 ### Getting Ready
 
-- 1📚  [ An Introduction to JAVA Language ]
+- 1📚  [ An Introduction to JAVA Language ] https://github.com/ishani-1255/Learning-JAVA/blob/main/DAY%201.md
 - 2📚  [ Variables in JAVA ]
 - 3📚  [ Conditional Statement in JAVA ]
 - 4📚  [ Loops in JAVA ]
